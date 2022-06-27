@@ -1,6 +1,6 @@
 /* FORMULARIO DE CONTACTO */
 const ContactoPage = (props) => {
-  return <div>ContactoPage</div>;
+  return <div>Formulario para contacto</div>;
 };
 
 export default ContactoPage;

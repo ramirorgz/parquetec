@@ -1,5 +1,5 @@
 const NosotrosPage = (props) => {
-  return <div>NosotrosPage</div>;
+  return <div>Quienes somos </div>;
 };
 
 export default NosotrosPage;
