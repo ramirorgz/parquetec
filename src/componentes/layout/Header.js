@@ -1,3 +1,5 @@
+import "../../estilos/componentes/layout/Header.css";
+
 const Header = (props) => {
   return (
     <header>
