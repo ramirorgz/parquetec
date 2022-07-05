@@ -3,9 +3,9 @@ import "../../estilos/componentes/layout/Header.css";
 const Header = (props) => {
   return (
     <header>
-      <div class="holder">
-        <img src="imagenes/PTIoficialLogoGRANDE.png" width="200" alt="Logo" />
-        <h1>ParqueTec</h1>
+      <div className="centrar">
+        <img className="logo" src="imagenes/Logo.png" alt="Logo" />
+        <h2>ParqueTec</h2>
       </div>
     </header>
   );

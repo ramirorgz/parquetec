@@ -37,8 +37,22 @@
   }
 }
 body {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: monospace;
   font-size: 16px;
-  background-color: blue;
+  background-color: rgb(6, 151, 208);
+}
+.logo {
+  width: 200px;
+}
+.centrar {
+  max-width: 960px;
+  margin: 0 auto;
+}
+h2 {
+  color: rgb(6, 151, 208);
+  font-weight: 400;
+}
+img {
+  max-width: min-content;
+  width: -webkit-fill-available;
 }

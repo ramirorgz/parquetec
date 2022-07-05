@@ -18,8 +18,8 @@ nav ul li a {
   text-align: center;
 }
 nav ul li a:hover {
-  background-color: blue;
+  background-color: rgb(3, 102, 138);
 }
 nav ul li a.activo {
-  background-color: blue;
+  background-color: rgb(3, 102, 138);
 }

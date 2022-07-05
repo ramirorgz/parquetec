@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Nav = (props) => {
   return (
     <nav>
-      <div className="holder">
+      <div className="centrar">
         <ul>
           <li>
             <Link to="/">Home</Link>

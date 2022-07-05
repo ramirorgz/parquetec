@@ -1,6 +1,13 @@
 import "../estilos/componentes/paginas/Home.css";
+
 const HomePage = (props) => {
-  return <div>Pagina de inicio</div>;
+  return (
+    <main className="centrar">
+      <div className="imghome">
+        <img src="imagenes\iPad-Air-02.webp" alt="air" />
+      </div>
+    </main>
+  );
 };
 
 export default HomePage;
