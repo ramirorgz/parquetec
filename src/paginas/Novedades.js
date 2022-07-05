@@ -1,5 +1,7 @@
 /* LO QUE VA A INTERACTUAR CON LA BASE DE DATOS*/
 /* PUEDEN SER PRODUCTOS */
+import "../estilos/componentes/paginas/Novedades.css";
+
 const NovedadesPage = (props) => {
   return (
     <div>
